@@ -1,0 +1,32 @@
+hr
+{
+border-top:2px dashed rgba(11, 181, 134, 0.28);
+}
+.jumbotron
+{
+  background-color: white;
+  text-align: center;
+}
+#erp
+{
+  font-size: 20px;
+  text-align: justify;
+  text-indent: 3px;
+}
+#green
+{
+  font-weight: 400px;
+  color:#0bb586;
+}
+#module
+{
+  font-size: 18px;
+}
+
+#sub
+{
+  font-weight: 400px;
+  color:#0bb586;
+  font-size: 24px;
+ 
+}
