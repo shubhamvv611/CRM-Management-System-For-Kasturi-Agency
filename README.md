@@ -1,4 +1,6 @@
 # CRM-Management-System-For-Kasturi-Agency
+![2 (2)](https://github.com/shubhamvv611/CRM-Management-System-For-Kasturi-Agency/assets/25903586/de20fb94-789c-4c2a-9354-df67f4bdec32)
+
 I alone have developed the best CRM (Customer Management System) for the business of Kasturi Agency and have done all the project design and data flow management from the beginning. It has many features like sorting all products, a facility to give orders to customers, a facility to add new products, Admin Dashboard. I alone have made this project using technology like Bootsrap4 HTML5 CSS3, PHP6, jQuery, Data tables JS, Purify CSS, and JavaScript.
 Screenshots-[CRM-Managment-System-For-Kasturi-Agency.pdf](https://github.com/shubhamvv611/CRM-Management-System-For-Kasturi-Agency/files/12248503/CRM-Managment-System-For-Kasturi-Agency.pdf)
 
